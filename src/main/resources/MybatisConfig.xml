@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MyBatis 配置文件 -->
+<configuration>
+    <mappers>
+        <mapper resource="com/example/mavenmodle1/mapper/BookMapper.xml"/>
+    </mappers>
+</configuration>
